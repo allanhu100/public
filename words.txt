@@ -81,7 +81,6 @@ Exculpatory
 Execrable
 Extemporaneous
 Fastidious
-Fawn
 Felicitous
 Flippant
 Foment
@@ -95,7 +94,6 @@ Grandiose
 Gratuitous
 Grift
 Harbinger
-Hector
 Hedonic
 Hermeneutic
 Heuristic
@@ -145,7 +143,6 @@ Obsequious
 Onerous
 Ontological
 Onus
-Opus
 Ostentatious
 Palimpsest
 Palliative
@@ -154,7 +151,7 @@ Paltry
 Panache
 Parsimony
 Pecuniary
-Pedantic
+Pedant
 Pejorative
 Penultimate
 Peregrination
@@ -180,7 +177,6 @@ Propriety
 Prosaic
 Prosodic
 Protean
-Provisional
 Pulchritude
 Punctilious
 Purported
