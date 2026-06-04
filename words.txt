@@ -1,5 +1,4 @@
 Abeyance
-Ablution
 Abrogate
 Accretion
 Acerbic
@@ -11,7 +10,7 @@ Amortize
 Animosity
 Animus
 Anodyne
-Anthropological
+Anthropology
 Apocryphal
 Aporia
 Apotheosis
@@ -29,7 +28,6 @@ Besmirch
 Besotted
 Boondoggle
 Bravado
-Byzantine
 Cadge
 Cajole
 Callous
