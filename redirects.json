@@ -8,14 +8,5 @@
     "url": "https://example.com",
     "expiry": "2222-02-22T22:22:22Z",
     "preview": true
-  },
-  {
-    "id": "dev-nourl",
-    "preview": true
-  },
-  {
-    "id": "dev-expiry":
-    "url": "https://example.com",
-    "expiry": "1999-12-31T23:59:59Z"
   }
 ]
